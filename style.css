@@ -1,0 +1,17 @@
+body{background-image:url('file:///C:/Users/user/Desktop/%D9%84%D9%84%D8%B7%D9%84%D8%A7%D8%A8/unnamed%20(1).jpg');
+background-size:cover;
+text-align: center;
+}
+h1{color:#eceff1;}
+label{font-size: 23px;color:white;border-style:dotted 3px;}
+span{font-size: 23px;color:white ;border-style:dotted 3px; }
+
+button{margin-left: 5px;height: 25px;color: white;background-color:#003153;}
+.i{
+   opacity: 0.3; color:#0288d1 ;height: 20px;
+}
+select{opacity: 0.6; color: blue;height: 25px;}
+
+p{font-size: 23px;color:white ;border-style:dotted 3px;}
+img{margin-left: 2px;}
+.isam{opacity: 0.4; font-weight: bold;}
